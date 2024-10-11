@@ -16,7 +16,6 @@ function SocialMedia() {
                         <img src={telegram} className='bg-black rounded-full size-[2rem] object-contain p-1'></img>
                         <div className='text-white'>Telegram Link</div>
                     </div>
-                    <div className='absolute rounded-full w-10 h-10 bg-green-500 top-0 right-3 translate-x-5'>this</div>
                 </div>
                 <img src={phoneDog} className='w-[25rem] h-[25rem]'></img>
             </div>
